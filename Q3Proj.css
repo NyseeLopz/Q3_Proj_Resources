@@ -1,0 +1,32 @@
+div {
+	background-color: #FFE269;
+}
+.logo {
+	width: 100px;
+	height: 100px;
+}
+td {
+	text-align: center;
+}
+body {
+	background: url(https://t3.ftcdn.net/jpg/05/50/75/46/360_F_550754634_Gn504O3CSEgJwzFpaaindIL8x0R9PznG.jpg);
+	background-size: 100%;
+}
+p {
+	font-size: 20px;
+}
+.form-contact {
+	margin: 0 auto;
+	max-width: 400px;
+}
+.red-cross {
+	width: 320px;
+	height: 245px;
+}
+.safety-resource {
+	width: 500px;
+	height: 120px;
+}
+.text-resource {
+	font-size: 30px;
+}
